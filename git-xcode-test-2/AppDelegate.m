@@ -26,6 +26,8 @@
     
     //this is my fourth commit
     
+    //this is my first commit from a new local working copy
+    
     return YES;
 }
 
